@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/cainiao_scala.iml" filepath="$PROJECT_DIR$/.idea/modules/cainiao_scala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cainiao_scala-build.iml" filepath="$PROJECT_DIR$/.idea/modules/cainiao_scala-build.iml" />
     </modules>
   </component>
 </project>
