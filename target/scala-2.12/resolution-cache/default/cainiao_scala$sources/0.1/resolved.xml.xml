@@ -4,7 +4,7 @@
 		module="cainiao_scala$sources"
 		revision="0.1"
 		status="integration"
-		publication="20180920114720"
+		publication="20181022104642"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
